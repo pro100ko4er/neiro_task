@@ -1,0 +1,14 @@
+Функция createAdmin нужна для создания админа
+
+Run project
+
+npm i
+
+Dev:
+    npm run dev
+
+Build: 
+    npm run build
+
+Prod:
+    npm run start
